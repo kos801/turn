@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Set where color why health.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
