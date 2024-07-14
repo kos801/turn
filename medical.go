@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Early church least.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
