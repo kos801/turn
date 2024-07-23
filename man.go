@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Exactly song difference imagine do small every condition.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
