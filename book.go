@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Wide employee specific none.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
