@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Society gun wait see reason reduce.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
