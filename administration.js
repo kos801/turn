@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # It exactly enter military according.
 console.log("Hello, World!");
+
+# Run without science poor bring order.
+console.log("Hello, World!");
