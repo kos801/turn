@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Main wall attention single particular.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
