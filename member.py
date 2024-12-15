@@ -5,3 +5,6 @@ print("Hello, World!")
 
 # Life but wrong staff.
 print("Hello, World!")
+
+# Force build agent medical.
+print("Hello, World!")
